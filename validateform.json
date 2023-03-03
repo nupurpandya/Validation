@@ -1,0 +1,91 @@
+{
+  "validate": [
+    {
+      "firstName": "nupur ",
+      "lastName": "pandya",
+      "phoneNo": "7777777777",
+      "personalEmail": "nupurpandya@gmail.com",
+      "corporateEmail": "nupur@1Rivet.com",
+      "salaryValue": "6000",
+      "passwordValue": "Admin#123",
+      "id": 1
+    },
+    {
+      "firstName": "sdfsfsfsdfsdf",
+      "lastName": "sfsf",
+      "phoneNo": "8888888888",
+      "personalEmail": "shweta@gmail.com",
+      "corporateEmail": "shweta@1Rivet.com",
+      "salaryValue": "6000",
+      "passwordValue": "AAmin#123",
+      "id": 2
+    },
+    {
+      "firstName": "sdfgsd",
+      "lastName": "dsg",
+      "phoneNo": "8888888888",
+      "personalEmail": "shweta@gmail.com",
+      "corporateEmail": "shweta@1Rivet.com",
+      "salaryValue": "6000",
+      "passwordValue": "Admin#123",
+      "id": 3
+    },
+    {
+      "firstName": "sdfgsd",
+      "lastName": "dsg",
+      "phoneNo": "8888888888",
+      "personalEmail": "shweta@gmail.com",
+      "corporateEmail": "shweta@1Rivet.com",
+      "salaryValue": "6000",
+      "passwordValue": "Admin#123",
+      "id": 4
+    },
+    {
+      "firstName": "Bhumika",
+      "lastName": "Bhatt",
+      "phoneNo": "8888888888",
+      "personalEmail": "bhumi@gmail.com",
+      "corporateEmail": "bhumi@1Rivet.com",
+      "salaryValue": "6000",
+      "passwordValue": "Admin#123",
+      "id": 5
+    },
+    {
+      "firstName": "Dimple",
+      "lastName": "Bhatt",
+      "phoneNo": "8888888888",
+      "personalEmail": "dimplebhatt@gmail.com",
+      "corporateEmail": "dimple@1Rivet.com",
+      "salaryValue": "6000",
+      "passwordValue": "Admin#123",
+      "id": 6
+    },
+    {
+      "firstName": "sdfgsd",
+      "lastName": "dsg",
+      "phoneNo": "8888888888",
+      "personalEmail": "manisha@gmail.com",
+      "corporateEmail": "manisha@1Rivet.com",
+      "salaryValue": "6000",
+      "passwordValue": "manisha123P",
+      "id": 7
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
